@@ -8,7 +8,7 @@ function Welcome() {
             className="h-full text-white text-center grid place-items-center"
         >
             <div className="px-4 bg-black bg-opacity-50 rounded mt-5 py-12 backdrop-filter backdrop-blur" style={{zIndex: `1`}}>
-                <img src={me} className="mx-auto rounded-full p-5 mt-16 flex-auto object-scale-down md:h-96" />
+                <img src={me} alt="Thomas Delvaux" className="mx-auto rounded-full p-5 mt-16 flex-auto object-scale-down md:h-96" />
                 <p className="text-lg font-bold italic uppercase tracking-wider">KYOCERA AVX Components Corporation</p>
                 <h1 className="font-bold text-6xl md:text-8xl md:ml-10 md:mr-10 leading-none">Thomas Delvaux</h1>
                 <p className="pt-3 pb-1 text-base font-light uppercase tracking-wider">Fountain Inn, SC</p>
