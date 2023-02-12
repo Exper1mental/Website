@@ -1,7 +1,3 @@
-# Images
-Any images not made by me are stock photos from pixabay.com
-The wave animation is from https://steamcommunity.com/sharedfiles/filedetails/?id=1830267291
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Images
+Any images not made by me are free-to-use stock photos from https://www.pixabay.com
+The wave animation is from https://steamcommunity.com/sharedfiles/filedetails/?id=1830267291
