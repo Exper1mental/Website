@@ -15,7 +15,7 @@ function App() {
       <Hero />
       <About />
       <ClemBot />
-      <footer className="text-white bg-gray-600 p-4 italic text-center">
+      <footer className="text-white bg-gray-800 p-4 italic text-center">
         &copy; {new Date().getFullYear()} Thomas Delvaux. All rights reserved.
       </footer>
     </div>

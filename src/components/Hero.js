@@ -19,13 +19,13 @@ function Welcome() {
                         href="https://www.linkedin.com/in/thomas-delvaux/"
                         rel="noopener noreferrer"
                         target="_blank"
-                        className="transition duration-300 mt-3 mb-4 text-gray-800 bg-gray-200 font-bold px-5 py-3 hover:bg-gray-700 hover:text-white rounded text-lg"
+                        className="transition duration-300 mt-3 mb-4 text-gray-800 bg-gray-200 font-bold px-5 py-3 hover:bg-gray-800 hover:text-white rounded text-lg"
                     >LinkedIn</a>
                     <a
                         href="https://github.com/Exper1mental"
                         rel="noopener noreferrer"
                         target="_blank"
-                        className="transition duration-300 ml-6 mt-3 mb-4 text-gray-800 bg-gray-200 font-bold px-5 py-3 hover:bg-gray-700 hover:text-white rounded text-lg"
+                        className="transition duration-300 ml-6 mt-3 mb-4 text-gray-800 bg-gray-200 font-bold px-5 py-3 hover:bg-gray-800 hover:text-white rounded text-lg"
                     >GitHub</a>
                 </div>
             </div>

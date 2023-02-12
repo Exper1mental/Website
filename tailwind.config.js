@@ -16,7 +16,13 @@ const withMT = require("@material-tailwind/react/utils/withMT");
 module.exports = withMT({
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        night: {
+          900: "#161616",
+        }
+      }
+    },
   },
   plugins: [],
 });
