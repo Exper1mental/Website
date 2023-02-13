@@ -3,10 +3,6 @@ import Wave from "./img/wave.mp4"; // Source: https://steamcommunity.com/sharedf
 
 function Welcome() {
     return (
-        // component
-        // Menu based on: https://tailwindcomponents.com/component/responsive-navbar-with-dropdown by Cricksu
-        // <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-
         <div>
             <video autoPlay muted loop id="myVideo" style={{ position: `fixed`, top: `0`, left: `0`, width: `100%`, height: `100%`, objectFit: `cover`, objectPosition: `center`, zIndex: `-1` }} >
                 <source src={Wave} type="video/mp4" />
