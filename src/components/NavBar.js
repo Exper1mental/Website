@@ -24,7 +24,7 @@ export default function NavBar() {
         variant="small"
         className="p-1 font-normal"
       >
-        <a href="#hero" className="flex items-center">
+        <a href="#hero" className="flex items-center transition duration-300 px-4 py-2 -m-2 bg-transparent rounded-lg hover:bg-gray-300 hover:bg-opacity-20 focus:bg-gray-300 focus:bg-opacity-10 focus:outline-none focus:shadow-outline">
           Hero
         </a>
       </Typography>
@@ -33,7 +33,7 @@ export default function NavBar() {
         variant="small"
         className="p-1 font-normal"
       >
-        <a href="#about" className="flex items-center">
+        <a href="#about" className="flex items-center transition duration-300 px-4 py-2 -m-2 bg-transparent rounded-lg hover:bg-gray-300 hover:bg-opacity-20 focus:bg-gray-300 focus:bg-opacity-10 focus:outline-none focus:shadow-outline">
           About
         </a>
       </Typography>
@@ -42,7 +42,7 @@ export default function NavBar() {
         variant="small"
         className="p-1 font-normal"
       >
-        <a href="#ClemBot" className="flex items-center">
+        <a href="#ClemBot" className="flex items-center transition duration-300 px-4 py-2 -m-2 bg-transparent rounded-lg hover:bg-gray-300 hover:bg-opacity-20 focus:bg-gray-300 focus:bg-opacity-10 focus:outline-none focus:shadow-outline">
           ClemBot
         </a>
       </Typography>
